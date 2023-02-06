@@ -1,0 +1,14 @@
+{
+  "name": "creative_agency",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "parcel": "npx parcel src/index.html",
+    "build": "npx parcel build src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
